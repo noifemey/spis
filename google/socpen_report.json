@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "socpen-report",
+  "private_key_id": "91c9dca2a01707350ca6fef6ad32cd4baed3ca00",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyShgBCUB7LITX\nFlXKPFSoZR+9FaWTC+AWD60ohqKZcYpAZuFIKYRfrSM2YuaC1Yk5xiV+zfrCyAiL\nIkwV74B9WS1h28PgSgenMK5usb5T0etw7ckBTuhtbu5dEetIh/Co0q62WpdTRjHd\nB2EJtiMQIdnnJ3mHjwL/1p4pzqTl4DLUaWckKHALtKBWbGLJe0UbnIpMv8t9vpfN\noBgGDHnfrFvO7qpymIqDzDzJF10L14vvCrck2Slvj0MKZDGiRkA3Fuy6r/dRboaa\nbtqICwLB4hVkQxC5UcyWkEXfYIdlg8Hju2PHCrm+DWqbJYdldLpbq6kWKHqyLa4X\nrIg7wxedAgMBAAECggEABVmIz9sltqx2zfdrGpbl2WmzYpqYLcng7viIcxtbHKyV\n/+m2X9JzGOXalSKxlQJwTC4AaQYoPJkA/J/KVawqmFhJLtMH1R6TjTY+Pa8SrXQy\nkuBntCTYf5QhDeTgQPxnQcGUoX8lZEfKbj3u8Poooi7J2ZBLKsClT+TyOQHs28Lq\nHMn0Int9apuTQTrj0+SXd8dqXf4XtehyDTBmv/mH1KPP1dglyseojyYlS2TdrYb1\nfzGt9bZoMHD+FZo3U0SwD59jks3s+CjIXreUheeiPfrwcMM8EbfZ8YF2/AKH1vlO\nl3/XaQZ5pKidyymiZtUPWtFNLQ4dw456fePL8vToZwKBgQDhLOs5NghT1TBjJFMQ\nvftPgTUOw3Sxh4991nTrDvQFGp6OZcv3xL1tr1QaY6MF3qWGQ2GhdyCLuwUPKwQv\nPi80pr+YHH46IpOHgIX288/2I0bQGECENoNEpu99eV0VM4B0lypcj71WELAM9TtR\nkGnKQGOrF7HyIdXj/Lr6dH9ZYwKBgQDKshgQD+QcM0NcqN6qqTlaxS8HwLC+9yPY\nmOyRFxVbbWyDDqmMFwxXgFiSq/3NQ6I8EOsARyf/jj49KwkwN2+4ZzXp6OsD7NI0\nmv19x6GtcVheQ+p8w+hJJH5JR89DZRbzXprvBRFKA6P+tc5oirbydzvBizcYELwF\nrhM5+Wca/wKBgA3usJM2o6dEPp0zxyv3BVCzBuxl7Zd6csdveIZ+w1x5fCwFYmxv\nMOVTftmvJowbbZR0INtTuqDKrpJ0r+qYZ2VTl/E6ehjwwL4WlrNj/I8XOa9wgLVt\nhgu+ZH0YAElqiV0taUKW5jkoCSyUE9qFG/aWq1QPwEPiEhDsN0l94c9PAoGAOnU0\nlWVP34Y1VkLpvQSDIxedYboD/39dWjl4eLvUkAK1+fI/mcSH7bB5Wwu5bfqkjng+\nnlznPz/x2UhRJRPH58H0fZqMNRyW308X7q+lhFUdLEqgFQ2XL4kT1uSb9Q7xmIzf\nWDH484SrRml+tw3Sh4k1tbMF163z3BuBNgYk41cCgYAvFyILvolM4NA1vZMn6Ubv\n2BEOMme/M/PJVKW1miLy+q07yhj4SdfUELhbta2BLa3ao28YRXTV6Y/oubKNPjmZ\nLM4iKfl6wyx8Zfg6VHnDLzFnY+SVuuLFXfaigErreZQ6ZBzuXwFz7L0fVRX+gKTP\nrFfsdwA82ZwMa0gJJLAPWA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dswd-car@socpen-report.iam.gserviceaccount.com",
+  "client_id": "115306950386291716568",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dswd-car%40socpen-report.iam.gserviceaccount.com"
+}

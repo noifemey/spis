@@ -1,0 +1,23 @@
+{
+  "name": "socpenv2",
+  "version": "1.0.0",
+  "description": "spis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "noifemey",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "hchs-vue-charts": "^1.2.8",
+    "vue-chartjs": "^3.5.0"
+  }
+}
